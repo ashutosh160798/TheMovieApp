@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TheMovieApp</string>
+    <string name="title">Title</string>
+    <string name="release_date">Release Date</string>
+    <string name="unknown_release_date">Unknown Release Date</string>
+    <string name="user_rating">User Rating</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="actionbar_spinner">ActionBar Spinner</string>
+    <string name="add_to_favourites">Add to Favourites</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+    <string name="reviews_not_available">Reviews Not Available</string>
+    <string name="no_movie_marked_as_favourite">No movie marked as favourite…</string>
+    <string name="remove_from_favourites">Remove from Favourites</string>
+</resources>
